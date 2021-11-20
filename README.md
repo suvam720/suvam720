@@ -1,6 +1,7 @@
 Hello!👋 My name's Suvam Debnath
-I'm a developer that loves to learn & simplifying things. I live in Agartala,Tripura. 
-Currently I'm a final year student @Triputa Institute Of Technology,studing Computer Science & Engineering.Interested in full-stack web development. 
+I'm a developer that loves to learn & simplifying things. 
+Currently I'm a final year student @Triputa Institute Of Technology,studing Computer Science & Engineering.
+I'm Interested in full-stack web development. 
 
 - 📫 How to reach me ...
 - 
