@@ -1,5 +1,6 @@
-Hello! My name's Yihua wave
-I'm a developer that loves simplifying things. I love breaking down complex problems into simple, easy to understand solutions. I Currently live in Toronto as a software developer. In my spare time, I create courses on software development and mentor new developers.
+Hello!👋 My name's Suvam Debnath
+I'm a developer that loves to learn & simplifying things. I love breaking down complex problems into simple, easy to understand solutions. I live in Agartala,Tripura.I'm a final year student @Triputa Institute Of Technology,studing Computer Science & Engineering.Interested in full-stack web development. 
+
 - 📫 How to reach me ...
 twitter-https://mobile.twitter.com/Suvamdebnath11
 Linkedin-https://www.linkedin.com/mwlite/in/suvam-debnath-25763517a
