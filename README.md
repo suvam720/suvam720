@@ -1,4 +1,4 @@
-Hello!👋 My name's Suvam Debnath
+Hello!👋
 I'm a developer that loves to learn & simplifying things. 
 Currently I'm a final year student @Triputa Institute Of Technology,studing Computer Science & Engineering.
 I'm Interested in full-stack web development. 
