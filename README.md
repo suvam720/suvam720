@@ -1,5 +1,6 @@
 Hello!👋
-I'm a developer that loves to learn & simplifying things. 
+I'm a Suvam 
+a developer,learner and 
 Computer Science & Engg. undergrad @Triputa Institute Of Technology
 
 
