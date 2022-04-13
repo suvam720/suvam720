@@ -1,7 +1,7 @@
 Hello!👋
 I'm a Suvam 
 a developer, learner and 
-Computer Science & Engg. undergrad @Triputa Institute Of Technology
+a Computer Science & Engg. undergrad @Triputa Institute Of Technology
 
 
 - 📫 How to reach me ...
