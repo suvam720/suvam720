@@ -1,6 +1,6 @@
 Hello!👋
 I'm a Suvam 
-a developer,learner and 
+a developer, learner and 
 Computer Science & Engg. undergrad @Triputa Institute Of Technology
 
 
