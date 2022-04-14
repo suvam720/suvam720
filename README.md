@@ -1,5 +1,5 @@
 Hello!👋
-I'm a Suvam 
+I'm Suvam 
 a developer, learner and 
 a Computer Science & Engg. undergrad @Triputa Institute Of Technology
 
