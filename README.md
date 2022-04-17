@@ -7,13 +7,11 @@ I'm Suvam <br/> A developer, learner and a Computer Science & Engg. undergrad @T
   <a href="https://www.linkedin.com/mwlite/in/suvam-debnath-25763517a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
   <a href="https://mobile.twitter.com/Suvamdebnath11">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=suvam720&style=flat-square&color=blue" alt=""/>
-<h1>
   </div>
  <h2>Language and tools:<h2><br/>
  <div>
