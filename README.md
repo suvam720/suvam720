@@ -11,7 +11,6 @@ I'm Suvam <br/> A developer, learner and a Computer Science & Engg. undergrad @T
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=suvam720&style=flat-square&color=blue" alt=""/>
   </div>
  <h2>Language and tools:<h2><br/>
  <div>
