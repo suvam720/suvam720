@@ -1,11 +1,9 @@
 <div align="center">
 Hello!👋<br/>
-I'm Suvam
-a developer, learner and 
-a Computer Science & Engg. undergrad @Triputa Institute Of Technology
+I'm Suvam a developer, learner and a Computer Science & Engg. undergrad @Triputa Institute Of Technology
 
 
-- 📫 How to reach me ...
+ 📫 How to reach me ...
  <div id="badges">
   <a href="https://www.linkedin.com/mwlite/in/suvam-debnath-25763517a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,6 +16,11 @@ a Computer Science & Engg. undergrad @Triputa Institute Of Technology
 <img src="https://komarev.com/ghpvc/?username=suvam720&style=flat-square&color=blue" alt=""/>
 <h1>
   </div>
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 
 <!---
