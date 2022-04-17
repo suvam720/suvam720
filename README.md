@@ -1,7 +1,6 @@
-<div align="center">
-Hello!👋<br/>
-I'm Suvam a developer, learner and a Computer Science & Engg. undergrad @Triputa Institute Of Technology
-
+<h1>Hello!👋<h1/><br/>
+<div>
+I'm Suvam <br/> A developer, learner and a Computer Science & Engg. undergrad @Triputa Institute Of Technology
 
  📫 How to reach me ...
  <div id="badges">
@@ -16,10 +15,13 @@ I'm Suvam a developer, learner and a Computer Science & Engg. undergrad @Triputa
 <img src="https://komarev.com/ghpvc/?username=suvam720&style=flat-square&color=blue" alt=""/>
 <h1>
   </div>
+ <h2>Language and tools:<h2><br/>
  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>&nbsp;
 </div>
 
 
