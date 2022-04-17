@@ -5,12 +5,10 @@ a Computer Science & Engg. undergrad @Triputa Institute Of Technology
 
 
 - 📫 How to reach me ...
-- 
-twitter-https://mobile.twitter.com/Suvamdebnath11
 
-Linkedin-https://www.linkedin.com/mwlite/in/suvam-debnath-25763517a
+-twitter-https://mobile.twitter.com/Suvamdebnath11
 
-Insta-https://www.instagram.com/suvam.debnath/
+-Linkedin-https://www.linkedin.com/mwlite/in/suvam-debnath-25763517a
 
 
 <!---
