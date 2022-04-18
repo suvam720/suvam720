@@ -1,6 +1,6 @@
 <h1>Hello!👋<h1/><br/>
 <div>
-I'm Suvam <br/> A developer, learner and a Computer Science & Engg. undergrad @Triputa Institute Of Technology
+<h2>I'm Suvam <br/> A developer, learner and a Computer Science & Engg. undergrad @Tripura Institute Of Technology<h2>
 
  📫 How to reach me ...
  <div id="badges">
