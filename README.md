@@ -1,7 +1,7 @@
 <h1>Hello!👋<h1/><br/>
-<div>
-<h4>I'm Suvam <br/> A developer, learner and a Computer Science & Engg. undergrad @Tripura Institute Of Technology<h4>
 
+I'm Suvam <br/> A developer, learner and a Computer Science & Engg. undergrad @Tripura Institute Of Technology
+<div>
  📫 How to reach me ...
  <div id="badges">
   <a href="https://www.linkedin.com/mwlite/in/suvam-debnath-25763517a">
