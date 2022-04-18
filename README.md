@@ -1,5 +1,4 @@
-<h1>Hello!👋<h1/><br/>
-
+<h3>Hello!👋<h3/><br/>
 I'm Suvam <br/> A developer, learner and a Computer Science & Engg. undergrad @Tripura Institute Of Technology
 <div>
  📫 How to reach me ...
@@ -12,7 +11,7 @@ I'm Suvam <br/> A developer, learner and a Computer Science & Engg. undergrad @T
   </a>
 </div>
   </div>
- <h2>Language and tools:<h2><br/>
+ <h3>Language and tools:<h3><br/>
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
