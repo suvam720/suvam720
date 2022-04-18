@@ -1,8 +1,9 @@
-<h3>Hello!👋<h3/><br/>
-I'm Suvam <br/> A developer, learner and a Computer Science & Engg. undergrad @Tripura Institute Of Technology
-<div>
+<h3>Hello!👋<br/>
+I'm Suvam, <br/> A developer, learner and a Computer Science & Engineering undergrad.
+<div><br/>
  📫 How to reach me ...
- <div id="badges">
+ 
+ <div id="badges"><br/>
   <a href="https://www.linkedin.com/mwlite/in/suvam-debnath-25763517a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
