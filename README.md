@@ -1,5 +1,5 @@
 <h3>Hello!👋<br/>
-I'm Suvam, <br/> A developer, learner and Computer Science undergrad.
+I'm <br/> A developer,learner and Computer Science undergrad.
 <div><br/>
  📫 How to reach me ...
  
