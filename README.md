@@ -1,8 +1,6 @@
 <h3>Hello!👋<br/>
-I'm A developer,learner and Computer Science undergrad.
+I'm A Golang developer and Computer Science undergrad.
 <div><br/>
- 📫 How to reach me ...
- 
  <div id="badges"><br/>
   <a href="https://www.linkedin.com/mwlite/in/suvam-debnath-25763517a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
